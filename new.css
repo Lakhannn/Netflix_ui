@@ -1,0 +1,373 @@
+.container {
+    background-color: rgb(54, 50, 50);
+    width: 100%;
+    height: 590vh;
+    margin-top: auto;
+    background-position: center;
+    background-size: cover;
+}
+
+/* ---------------PAGE 1--------------- */
+
+.Page1 {
+    height: 93vh;
+    background-image: radial-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.9)), url('background.png');
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    height: 40px;
+    padding: 25px 0px 0px 150px;
+}
+
+#lang {
+    background-color: transparent;
+    color: white;
+    margin: 20px 25px 0px 0px;
+    padding: 5px 20px 5px 20px;
+    border-color: white;
+}
+
+.logo1 {
+    height: 5px;
+    padding: 0px 0px 1px 5px;
+}
+
+#Sign {
+    background-color: rgb(229, 9, 20);
+    padding: 8px 15px 8px 15px;
+    border-radius: 6px;
+    color: white;
+    margin-right: 180px;
+}
+
+.Page1Contain {
+    color: white;
+    text-align: center;
+    margin-top: 250px;
+}
+
+#Texth1 {
+    font-size: 55px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#P1Pera1 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box {
+    text-align: center;
+}
+
+#Email {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 4px;
+    border: 1px solid grey;
+    padding: 15px 60px 15px 15px;
+}
+
+#start {
+    color: white;
+    background-color: rgba(255, 0, 0, 0.85);
+    padding: 15px 25px 15px 25px;
+    font-size: 23px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+
+
+/* ------------PAGE 2----------------- */
+.Page1Contain2 {
+    margin-top: 8px;
+    height: 78vh;
+    background-color: black;
+    color: white;
+    position: relative;
+    background-repeat: no-repeat;
+}
+
+#Page1Data1 {
+    Display: flex;
+    size: 20px;
+    width: 100%;
+    align-items: center;
+    padding: 10px 0;
+}
+
+#Text2h1 {
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px 0px 0px 192px;
+    display: flex;
+}
+
+#Page1Pera2 {
+    display: flex;
+    font-size: 25px;
+    padding-left: 190px;
+}
+
+#Page2Image {
+    height: 420px;
+    padding: 0px 0px 50px 100px;
+    margin: 50px 100px 0px 0px;
+}
+
+img.Pag2Imag {
+    height: 200px;
+    display: block;
+}
+
+
+/*-------------PAGE 3------------------ */
+.Page3Contain3 {
+    background-color: black;
+    margin-top: 8px;
+    color: white;
+    width: 100%;
+    height: 78vh;
+}
+
+#Page2Data2 {
+    display: flex;
+    align-items: center;
+}
+
+#Page2Image {
+    height: 400px;
+    padding: 65px 0px 0px 100px;
+    margin-left: 100px;
+}
+
+#Text3h1 {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#Page3Pera3 {
+    font-size: 23px;
+    margin-right: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* ----------------PAGE 4------------------ */
+.Page4Contain4 {
+    background-color: black;
+    color: white;
+    height: 78vh;
+    width: 100%;
+    margin-top: 8px;
+}
+
+#Page4Data4 {
+    display: flex;
+    align-items: center;
+    padding-top: 60px;
+}
+
+#Text4h1 {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 160px;
+}
+
+#Page4Pera4 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 0px 0px 160px;
+}
+
+#Page4Image {
+    height: 420px;
+    padding: 0px 100px 0px 130px;
+}
+
+/* ----------------PAGE 5--------------- */
+
+.Page5Contain5 {
+    background-color: black;
+    color: white;
+    height: 78vh;
+    width: 100%;
+    margin-top: 8px;
+}
+
+#Page5Data5 {
+    display: flex;
+    align-items: center;
+    padding-top: 60px;
+}
+
+#Text5h1 {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#Page5Pera5 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 90px;
+}
+
+#Page5Image {
+    height: 420px;
+    padding: 0px 50px 0px 160px;
+}
+
+/* --------------PAGE 6 -------------------- */
+.Page6Contain6 {
+    background-color: black;
+    color: white;
+    height: 120vh;
+    width: 100%;
+    margin-top: 8px;
+    text-align: center;
+}
+
+#Page6h1 {
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px;
+    padding-top: 50px;
+}
+
+#S1 {
+    background-color: grey;
+    padding: 10px 10px 10px 10px;
+}
+
+.List {
+    margin: 60px auto;
+    width: 100%;
+    max-width: 750px;
+}
+
+.List li {
+    list-style: none;
+    width: 100%;
+    padding: 5px;
+}
+
+.List li label {
+    display: flex;
+    align-items: center;
+    padding: 25px;
+    font-size: 18px;
+    font-weight: 500;
+    background: #303030;
+    margin-bottom: 2px;
+    cursor: pointer;
+    position: relative;
+}
+
+label::after {
+    content: '+';
+    font-size: 34px;
+    position: absolute;
+    right: 20px;
+    transition: transform 0.5s;
+}
+
+input[type="radio"] {
+    display: none;
+}
+
+.List .Contain1 {
+    background: #303030;
+    text-align: left;
+    padding: 0 20px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s, padding 0.5s;
+}
+
+.List input[type="radio"]:checked+label+.Contain1 {
+    max-height: 600px;
+    padding: 30px 20px;
+}
+
+.List input[type="radio"]:checked+label::after {
+    transform: rotate(135deg);
+}
+
+#Page6Text {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+#Email1 {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 4px;
+    border: 1px solid grey;
+    padding: 15px 60px 15px 15px;
+}
+
+#start1 {
+    color: white;
+    background-color: rgba(255, 0, 0, 0.85);
+    padding: 15px 25px 15px 25px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/*------------------FINAL PAGE------------- */
+
+.footer {
+    background-color: black;
+    height: 51vh;
+    width: auto;
+}
+
+.footer {
+    padding: 50px 15% 10px;
+    border-top: 6px solid #333;
+    color: #777;
+
+}
+
+.footer .h2 {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.footer .col {
+    display: inline-block;
+    padding-right: 200px;
+    text-decoration: underline;
+    flex-basis: 25%;
+    flex-grow: 1;
+    margin-bottom: 20px;
+}
+
+.footer .col a {
+    display: block;
+    text-decoration: none;
+    color: #777;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
